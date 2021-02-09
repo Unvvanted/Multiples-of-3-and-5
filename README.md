@@ -7,7 +7,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 a = 0
 c = 1000
-sum = 0 
+b = 0 
 
 d = 3 
 e = 5 
@@ -15,10 +15,10 @@ e = 5
 while a %d or e !=0:
     a += 1 
     if a %d ==0:
-        sum += a 
+        b += a 
     if a %e ==0 and a %d !=0: 
-        sum += a 
+        b += a 
     if a == c - 1:
-        print(sum) 
+        print(b) 
         break
         
