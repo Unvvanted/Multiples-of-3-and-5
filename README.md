@@ -22,3 +22,4 @@ while a %d or e !=0:
     if a == c - 1:
         print(b) 
         break
+print(done)
