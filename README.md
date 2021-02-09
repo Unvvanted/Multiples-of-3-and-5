@@ -10,9 +10,9 @@ a = 0
 c = 1000
 b = 0 
 
-
 d = 3 
 e = 5 
+
 while a %d or e !=0:
     a += 1 
     if a %d ==0:
