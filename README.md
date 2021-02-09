@@ -21,3 +21,4 @@ while a %d or e !=0:
     if a == c - 1:
         print(sum) 
         break
+        
