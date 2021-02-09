@@ -9,6 +9,8 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 a = 0
 c = 1000
 b = 0 
+
+
 d = 3 
 e = 5 
 while a %d or e !=0:
